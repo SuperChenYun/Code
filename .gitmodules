@@ -1,0 +1,3 @@
+[submodule "database/Medoo"]
+	path = database/Medoo
+	url = https://github.com/catfan/Medoo.git
