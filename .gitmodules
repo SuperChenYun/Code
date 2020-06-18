@@ -4,3 +4,6 @@
 [submodule "manage-script/x-prober"]
 	path = manage-script/x-prober
 	url = https://github.com/kmvan/x-prober
+[submodule "database/adminer"]
+	path = database/adminer
+	url = https://github.com/vrana/adminer.git
