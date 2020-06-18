@@ -1,3 +1,6 @@
 [submodule "database/Medoo"]
 	path = database/Medoo
 	url = https://github.com/catfan/Medoo.git
+[submodule "manage-script/x-prober"]
+	path = manage-script/x-prober
+	url = https://github.com/kmvan/x-prober
